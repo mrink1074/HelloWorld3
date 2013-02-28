@@ -4,7 +4,7 @@ public class Hello {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Update local 3");
+		System.out.println("Update remote 4");
 	}
 
 }
